@@ -1,0 +1,27 @@
+{
+  "study_name": "mdms_mcvrp_20250814_005302",
+  "optimization_summary": {
+    "sampler": "tpe",
+    "search_mode": "comprehensive",
+    "n_trials": 30,
+    "n_runs_per_trial": 1,
+    "total_time": 0.1904768943786621,
+    "best_fitness": Infinity,
+    "best_params": {
+      "swarm_size": 90,
+      "max_iterations": 500,
+      "employed_ratio": 0.7,
+      "onlooker_ratio": 0.35,
+      "limit": 9
+    },
+    "timeout_used": false
+  },
+  "trial_history": [],
+  "statistics": {},
+  "study_summary": {
+    "n_trials": 30,
+    "n_complete_trials": 30,
+    "n_failed_trials": 0,
+    "n_pruned_trials": 0
+  }
+}

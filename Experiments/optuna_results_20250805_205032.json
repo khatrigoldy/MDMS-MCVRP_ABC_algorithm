@@ -1,0 +1,400 @@
+{
+  "study_name": "mdms_mcvrp_20250805_180940",
+  "optimization_summary": {
+    "sampler": "tpe",
+    "search_mode": "comprehensive",
+    "n_trials": 30,
+    "n_runs_per_trial": 1,
+    "total_time": 9651.834594726562,
+    "best_fitness": 34143902.0,
+    "best_params": {
+      "swarm_size": 200,
+      "max_iterations": 350,
+      "employed_ratio": 0.4,
+      "onlooker_ratio": 0.5,
+      "limit": 29
+    }
+  },
+  "trial_history": [
+    {
+      "trial": 2,
+      "params": {
+        "swarm_size": 20,
+        "max_iterations": 500,
+        "employed_ratio": 0.75,
+        "onlooker_ratio": 0.15000000000000002,
+        "limit": 9
+      },
+      "fitness": 34144556.0,
+      "execution_time": 17.69144916534424,
+      "timestamp": "2025-08-05T18:09:57.871258"
+    },
+    {
+      "trial": 3,
+      "params": {
+        "swarm_size": 50,
+        "max_iterations": 175,
+        "employed_ratio": 0.55,
+        "onlooker_ratio": 0.25,
+        "limit": 11
+      },
+      "fitness": 34144486.05,
+      "execution_time": 13.010788917541504,
+      "timestamp": "2025-08-05T18:10:10.882958"
+    },
+    {
+      "trial": 4,
+      "params": {
+        "swarm_size": 130,
+        "max_iterations": 100,
+        "employed_ratio": 0.45,
+        "onlooker_ratio": 0.25,
+        "limit": 15
+      },
+      "fitness": 34144674.75,
+      "execution_time": 18.14718794822693,
+      "timestamp": "2025-08-05T18:10:29.031668"
+    },
+    {
+      "trial": 5,
+      "params": {
+        "swarm_size": 160,
+        "max_iterations": 125,
+        "employed_ratio": 0.55,
+        "onlooker_ratio": 0.35,
+        "limit": 5
+      },
+      "fitness": 34144628.0,
+      "execution_time": 5182.339487075806,
+      "timestamp": "2025-08-05T19:36:51.376084"
+    },
+    {
+      "trial": 6,
+      "params": {
+        "swarm_size": 130,
+        "max_iterations": 125,
+        "employed_ratio": 0.3,
+        "onlooker_ratio": 0.5,
+        "limit": 29
+      },
+      "fitness": 34144142.0,
+      "execution_time": 1006.642175912857,
+      "timestamp": "2025-08-05T19:53:38.029925"
+    },
+    {
+      "trial": 7,
+      "params": {
+        "swarm_size": 170,
+        "max_iterations": 175,
+        "employed_ratio": 0.35,
+        "onlooker_ratio": 0.4,
+        "limit": 15
+      },
+      "fitness": 34144524.7,
+      "execution_time": 543.2010519504547,
+      "timestamp": "2025-08-05T20:02:41.238852"
+    },
+    {
+      "trial": 8,
+      "params": {
+        "swarm_size": 40,
+        "max_iterations": 275,
+        "employed_ratio": 0.3,
+        "onlooker_ratio": 0.5,
+        "limit": 11
+      },
+      "fitness": 34144559.0,
+      "execution_time": 17.3729510307312,
+      "timestamp": "2025-08-05T20:02:58.619241"
+    },
+    {
+      "trial": 9,
+      "params": {
+        "swarm_size": 140,
+        "max_iterations": 175,
+        "employed_ratio": 0.55,
+        "onlooker_ratio": 0.30000000000000004,
+        "limit": 9
+      },
+      "fitness": 34144764.0,
+      "execution_time": 38.96624207496643,
+      "timestamp": "2025-08-05T20:03:37.588025"
+    },
+    {
+      "trial": 10,
+      "params": {
+        "swarm_size": 200,
+        "max_iterations": 350,
+        "employed_ratio": 0.4,
+        "onlooker_ratio": 0.5,
+        "limit": 29
+      },
+      "fitness": 34143902.0,
+      "execution_time": 113.2117657661438,
+      "timestamp": "2025-08-05T20:05:30.805613"
+    },
+    {
+      "trial": 11,
+      "params": {
+        "swarm_size": 190,
+        "max_iterations": 375,
+        "employed_ratio": 0.4,
+        "onlooker_ratio": 0.5,
+        "limit": 29
+      },
+      "fitness": 34143979.7,
+      "execution_time": 114.52053809165955,
+      "timestamp": "2025-08-05T20:07:25.334365"
+    },
+    {
+      "trial": 12,
+      "params": {
+        "swarm_size": 200,
+        "max_iterations": 375,
+        "employed_ratio": 0.4,
+        "onlooker_ratio": 0.45000000000000007,
+        "limit": 29
+      },
+      "fitness": 34144034.7,
+      "execution_time": 115.24519801139832,
+      "timestamp": "2025-08-05T20:09:20.586002"
+    },
+    {
+      "trial": 13,
+      "params": {
+        "swarm_size": 200,
+        "max_iterations": 375,
+        "employed_ratio": 0.45,
+        "onlooker_ratio": 0.45000000000000007,
+        "limit": 23
+      },
+      "fitness": 34144141.0,
+      "execution_time": 124.83864998817444,
+      "timestamp": "2025-08-05T20:11:25.431752"
+    },
+    {
+      "trial": 14,
+      "params": {
+        "swarm_size": 180,
+        "max_iterations": 375,
+        "employed_ratio": 0.45,
+        "onlooker_ratio": 0.1,
+        "limit": 25
+      },
+      "fitness": 34144306.0,
+      "execution_time": 80.1436288356781,
+      "timestamp": "2025-08-05T20:12:45.588024"
+    },
+    {
+      "trial": 16,
+      "params": {
+        "swarm_size": 180,
+        "max_iterations": 425,
+        "employed_ratio": 0.4,
+        "onlooker_ratio": 0.45000000000000007,
+        "limit": 27
+      },
+      "fitness": 34144098.7,
+      "execution_time": 1059.0969593524933,
+      "timestamp": "2025-08-05T20:30:24.699498"
+    },
+    {
+      "trial": 17,
+      "params": {
+        "swarm_size": 150,
+        "max_iterations": 275,
+        "employed_ratio": 0.5,
+        "onlooker_ratio": 0.4,
+        "limit": 19
+      },
+      "fitness": 34144295.0,
+      "execution_time": 331.72927808761597,
+      "timestamp": "2025-08-05T20:35:56.437439"
+    },
+    {
+      "trial": 18,
+      "params": {
+        "swarm_size": 200,
+        "max_iterations": 325,
+        "employed_ratio": 0.35,
+        "onlooker_ratio": 0.2,
+        "limit": 25
+      },
+      "fitness": 34143931.0,
+      "execution_time": 72.4975438117981,
+      "timestamp": "2025-08-05T20:37:08.945090"
+    },
+    {
+      "trial": 19,
+      "params": {
+        "swarm_size": 110,
+        "max_iterations": 325,
+        "employed_ratio": 0.35,
+        "onlooker_ratio": 0.2,
+        "limit": 23
+      },
+      "fitness": 34144389.0,
+      "execution_time": 38.475934982299805,
+      "timestamp": "2025-08-05T20:37:47.428528"
+    },
+    {
+      "trial": 20,
+      "params": {
+        "swarm_size": 160,
+        "max_iterations": 250,
+        "employed_ratio": 0.6000000000000001,
+        "onlooker_ratio": 0.1,
+        "limit": 25
+      },
+      "fitness": 34144475.0,
+      "execution_time": 58.67663621902466,
+      "timestamp": "2025-08-05T20:38:46.109426"
+    },
+    {
+      "trial": 21,
+      "params": {
+        "swarm_size": 200,
+        "max_iterations": 425,
+        "employed_ratio": 0.35,
+        "onlooker_ratio": 0.2,
+        "limit": 29
+      },
+      "fitness": 34143969.0,
+      "execution_time": 93.53903889656067,
+      "timestamp": "2025-08-05T20:40:19.655373"
+    },
+    {
+      "trial": 22,
+      "params": {
+        "swarm_size": 200,
+        "max_iterations": 450,
+        "employed_ratio": 0.35,
+        "onlooker_ratio": 0.2,
+        "limit": 27
+      },
+      "fitness": 34144032.7,
+      "execution_time": 99.12057375907898,
+      "timestamp": "2025-08-05T20:41:58.783775"
+    },
+    {
+      "trial": 23,
+      "params": {
+        "swarm_size": 170,
+        "max_iterations": 425,
+        "employed_ratio": 0.3,
+        "onlooker_ratio": 0.2,
+        "limit": 27
+      },
+      "fitness": 34144083.0,
+      "execution_time": 71.95844626426697,
+      "timestamp": "2025-08-05T20:43:10.751720"
+    },
+    {
+      "trial": 24,
+      "params": {
+        "swarm_size": 180,
+        "max_iterations": 325,
+        "employed_ratio": 0.35,
+        "onlooker_ratio": 0.15000000000000002,
+        "limit": 21
+      },
+      "fitness": 34144297.0,
+      "execution_time": 59.002731800079346,
+      "timestamp": "2025-08-05T20:44:09.764650"
+    },
+    {
+      "trial": 25,
+      "params": {
+        "swarm_size": 200,
+        "max_iterations": 450,
+        "employed_ratio": 0.5,
+        "onlooker_ratio": 0.25,
+        "limit": 25
+      },
+      "fitness": 34144156.0,
+      "execution_time": 129.39150094985962,
+      "timestamp": "2025-08-05T20:46:19.161802"
+    },
+    {
+      "trial": 26,
+      "params": {
+        "swarm_size": 180,
+        "max_iterations": 225,
+        "employed_ratio": 0.4,
+        "onlooker_ratio": 0.15000000000000002,
+        "limit": 29
+      },
+      "fitness": 34144104.0,
+      "execution_time": 45.63802194595337,
+      "timestamp": "2025-08-05T20:47:04.808074"
+    },
+    {
+      "trial": 27,
+      "params": {
+        "swarm_size": 110,
+        "max_iterations": 325,
+        "employed_ratio": 0.3,
+        "onlooker_ratio": 0.30000000000000004,
+        "limit": 27
+      },
+      "fitness": 34144258.0,
+      "execution_time": 41.41983699798584,
+      "timestamp": "2025-08-05T20:47:46.234035"
+    },
+    {
+      "trial": 28,
+      "params": {
+        "swarm_size": 160,
+        "max_iterations": 400,
+        "employed_ratio": 0.5,
+        "onlooker_ratio": 0.25,
+        "limit": 21
+      },
+      "fitness": 34144346.0,
+      "execution_time": 92.86346006393433,
+      "timestamp": "2025-08-05T20:49:19.101980"
+    },
+    {
+      "trial": 29,
+      "params": {
+        "swarm_size": 80,
+        "max_iterations": 475,
+        "employed_ratio": 0.8,
+        "onlooker_ratio": 0.2,
+        "limit": 25
+      },
+      "fitness": 34144174.7,
+      "execution_time": 72.88588905334473,
+      "timestamp": "2025-08-05T20:50:31.997773"
+    }
+  ],
+  "statistics": {
+    "total_trials": 27,
+    "best_fitness": 34143902.0,
+    "best_params": {
+      "swarm_size": 200,
+      "max_iterations": 350,
+      "employed_ratio": 0.4,
+      "onlooker_ratio": 0.5,
+      "limit": 29
+    },
+    "fitness_stats": {
+      "mean": 34144270.62962963,
+      "std": 240.485912522679,
+      "min": 34143902.0,
+      "max": 34144764.0,
+      "median": 34144258.0
+    },
+    "time_stats": {
+      "mean": 357.467665442714,
+      "std": 982.8599030164398,
+      "total": 9651.626966953278
+    },
+    "improvement_trials": 1
+  },
+  "study_summary": {
+    "n_trials": 30,
+    "n_complete_trials": 30,
+    "n_failed_trials": 0
+  }
+}
